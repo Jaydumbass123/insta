@@ -1,0 +1,7 @@
+username=dumbass_kingg
+password=T@ra@kter33333
+userAgent=Reddittube
+clientId=6u2fRYRUGysW5HCLIM4VYQ
+clientSecret=JipjmRjCzsN39iE1_Cu7kgAwtFiX8g
+redditUsername=JayReddit82
+redditPassword=REDDIT1023
